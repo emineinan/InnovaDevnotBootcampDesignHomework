@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DesignHomework</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_library">Your Library</string>
+    <string name="podcasts_shows"><![CDATA[Podcasts & Shows]]></string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="playlists">Playlists</string>
+    <string name="liked_songs">Liked songs</string>
+    <string name="_15_songs">15 songs</string>
+    <string name="recently_played">Recently played</string>
+    <string name="endiseli_psikolog">Endiseli Psikolog</string>
+    <string name="podcast">Podcast</string>
+    <string name="zeynep_ozgen">Zeynep Ozgen</string>
+    <string name="agah_aydin">Agah AYDIN</string>
+    <string name="portakallar_ve_anlamsizlik">Portakallar ve Anlamsızlık</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="premium">Premium</string>
+</resources>
